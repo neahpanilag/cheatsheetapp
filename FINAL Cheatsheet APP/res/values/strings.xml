@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cheet</string>
+    <string name="search_label">Cheat Sheet</string>
+    <string name="search_hint">Search the cheat sheet</string>
+    <string name="menu_search">Search</string>
+    <string name="settings_description">Descriptions</string>
+    <string name="search_instructions">Use the search box in the Action Bar to look up a tag.</string>
+    <string name="tag_placeholder">tag goes here</string>
+    <string name="dfn_placeholder">short definition goes here</string>
+    <string name="settings">Settings</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="php">PHP</string>
+    <string name="bacon">Bacon ipsum dolor sit amet shank prosciutto landjaeger doner officia, ball tip capicola. Labore dolore commodo, nisi nostrud ut sint fugiat sunt pork loin andouille capicola chicken ground round. Aliquip ground round pariatur prosciutto adipisicing qui meatloaf pig. Dolor tempor pork loin, porchetta ut corned beef do excepteur landjaeger. Quis nisi brisket tri-tip. Et minim turkey tempor elit dolore chicken kevin cupidatat boudin. Ham spare ribs strip steak pork consectetur shankle, ball tip ut nostrud id chicken non chuck jowl.</string>
+    <plurals name="search_results">
+      <item quantity="one">%1$d result for \"%2$s\": </item>
+      <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+    <string name="no_results">No results found for \"%s\"</string>
+</resources>
